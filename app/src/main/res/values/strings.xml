@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <resources>
+        <string name="app_name">Picnic Suggestion</string>
+        <string name="place1">محمية حوف بمنطقة المهرة</string>
+        <string name="place2">قصر السلطان الكثيري بمدينة سيئون</string>
+        <string name="place3">جزيرة سقطرى اليمنية</string>
+        <string name="place4">مدينة شبام الاثرية بوادي حضرموت</string>
+        <string name="place5">مسبح</string>
+        <string name="place6">مضمار سباق</string>
+        <string name="activity11">تصوير المناظر الطبيعية</string>
+        <string name="activity12">الاستجمام</string>
+        <string name="activity21">تصوير الادوات التراثية</string>
+        <string name="activity22">الاطلاع على التراث الحضرمي للدولة الكثيرية</string>
+        <string name="activity31">تصوير المناظر الطبيعية</string>
+        <string name="activity32">اخذ جولة داخل الجزيرة</string>
+        <string name="activity41">شراء مقتنيات تراثية من داخل المدينة</string>
+        <string name="activity42">اخذ جولة داخل المدينة</string>
+        <string name="activity51">الغطس</string>
+        <string name="activity52">السباحة</string>
+        <string name="activity61">إقامة سباق الجري مع الاصدقاء</string>
+        <string name="activity62">ممارسة رياضة الجري</string>
+    </resources></resources>
